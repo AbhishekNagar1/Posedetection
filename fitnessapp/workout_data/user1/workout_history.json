@@ -1,0 +1,15 @@
+[
+    {
+        "date": "2025-04-28",
+        "total_time_sec": 29,
+        "calories_burned": 2.4166666666666665,
+        "data": {
+            "right_curl": 8,
+            "left_curl": 6,
+            "squat": 7,
+            "pushup": 2,
+            "lunge": 4,
+            "plank": 0
+        }
+    }
+]

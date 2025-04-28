@@ -1,0 +1,41 @@
+[
+    {
+        "date": "2025-04-28",
+        "total_time_sec": 25,
+        "calories_burned": 2.0833333333333335,
+        "data": {
+            "right_curl": 0,
+            "left_curl": 0,
+            "squat": 0,
+            "pushup": 0,
+            "lunge": 0,
+            "plank": 0
+        }
+    },
+    {
+        "date": "2025-04-28",
+        "total_time_sec": 4,
+        "calories_burned": 0.3333333333333333,
+        "data": {
+            "right_curl": 0,
+            "left_curl": 0,
+            "squat": 0,
+            "pushup": 0,
+            "lunge": 0,
+            "plank": 0
+        }
+    },
+    {
+        "date": "2025-04-28",
+        "total_time_sec": 32,
+        "calories_burned": 2.6666666666666665,
+        "data": {
+            "right_curl": 2,
+            "left_curl": 4,
+            "squat": 0,
+            "pushup": 2,
+            "lunge": 0,
+            "plank": 0
+        }
+    }
+]
