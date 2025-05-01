@@ -37,5 +37,161 @@
             "lunge": 0,
             "plank": 0
         }
+    },
+    {
+        "date": "2025-04-28",
+        "total_time_sec": 183,
+        "calories_burned": 15.25,
+        "data": {
+            "right_curl": 7,
+            "left_curl": 6,
+            "squat": 4,
+            "pushup": 2,
+            "lunge": 1,
+            "plank": 0
+        }
+    },
+    {
+        "date": "2025-04-30",
+        "total_time_sec": 30,
+        "calories_burned": 2.5,
+        "data": {
+            "right_curl": 0,
+            "left_curl": 0,
+            "squat": 0,
+            "pushup": 0,
+            "lunge": 0,
+            "plank": 0
+        }
+    },
+    {
+        "date": "2025-04-30",
+        "total_time_sec": 66,
+        "calories_burned": 5.5,
+        "data": {
+            "right_curl": 5,
+            "left_curl": 5,
+            "squat": 0,
+            "pushup": 3,
+            "lunge": 0,
+            "plank": 0
+        }
+    },
+    {
+        "date": "2025-04-30",
+        "total_time_sec": 493,
+        "calories_burned": 41.083333333333336,
+        "data": {
+            "right_curl": 0,
+            "left_curl": 0,
+            "squat": 0,
+            "pushup": 0,
+            "lunge": 0,
+            "plank": 0
+        }
+    },
+    {
+        "date": "2025-04-30",
+        "total_time_sec": 57,
+        "calories_burned": 4.75,
+        "data": {
+            "right_curl": 5,
+            "left_curl": 4,
+            "squat": 1,
+            "pushup": 3,
+            "lunge": 0,
+            "plank": 0
+        }
+    },
+    {
+        "date": "2025-04-30",
+        "total_time_sec": 34,
+        "calories_burned": 2.833333333333333,
+        "data": {
+            "right_curl": 3,
+            "left_curl": 3,
+            "squat": 2,
+            "pushup": 1,
+            "lunge": 1,
+            "plank": 0
+        }
+    },
+    {
+        "date": "2025-04-30",
+        "total_time_sec": 16,
+        "calories_burned": 1.3333333333333333,
+        "data": {
+            "right_curl": 3,
+            "left_curl": 2,
+            "squat": 0,
+            "pushup": 2,
+            "lunge": 1,
+            "plank": 0
+        }
+    },
+    {
+        "date": "2025-04-30",
+        "total_time_sec": 47,
+        "calories_burned": 3.9166666666666665,
+        "data": {
+            "right_curl": 5,
+            "left_curl": 5,
+            "squat": 0,
+            "pushup": 3,
+            "lunge": 0,
+            "plank": 0
+        }
+    },
+    {
+        "date": "2025-04-30",
+        "total_time_sec": 63,
+        "calories_burned": 5.25,
+        "data": {
+            "right_curl": 0,
+            "left_curl": 0,
+            "squat": 0,
+            "pushup": 0,
+            "lunge": 0,
+            "plank": 0
+        }
+    },
+    {
+        "date": "2025-04-30",
+        "total_time_sec": 26,
+        "calories_burned": 2.166666666666667,
+        "data": {
+            "right_curl": 3,
+            "left_curl": 3,
+            "squat": 0,
+            "pushup": 2,
+            "lunge": 0,
+            "plank": 0
+        }
+    },
+    {
+        "date": "2025-04-30",
+        "total_time_sec": 38,
+        "calories_burned": 3.1666666666666665,
+        "data": {
+            "right_curl": 6,
+            "left_curl": 4,
+            "squat": 1,
+            "pushup": 4,
+            "lunge": 0,
+            "plank": 0
+        }
+    },
+    {
+        "date": "2025-04-30",
+        "total_time_sec": 75,
+        "calories_burned": 6.25,
+        "data": {
+            "right_curl": 0,
+            "left_curl": 0,
+            "squat": 0,
+            "pushup": 0,
+            "lunge": 0,
+            "plank": 0
+        }
     }
 ]
