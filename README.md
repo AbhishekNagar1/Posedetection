@@ -270,7 +270,7 @@ scipy>=1.7.0
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [License](https://license-instructions.netlify.app/) file for details.
 
 ---
 
